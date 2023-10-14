@@ -30,22 +30,22 @@ That's where "Milestone" comes in. It's a simple app that helps you reach your g
   
 
 ## 💁Meet the Team
-## The Problem
-### Why do people not achieve their goals
-### Survey results
-## The Solution
-### What is Milestone?
-### What is the process?
-### How does it work?
-### Why does it work?
-## The Tech
-### Backend
-### Frontend
-### MATLAB
-## Ex: Fox Drawing
-## Ex: Financial Goals
-## Try it Out
-## Target Audience
-## What makes us unique
-## Testimonials
-## Future Prospects
+## 📍The Problem
+### 💡Why do people not achieve their goals
+### 📊Survey results
+## 🛠️The Solution
+### 🤖What is Milestone?
+### 📝What is the process?
+### 🔍How does it work?
+### 🧠Why does it work?
+## 🔌The Tech
+### 🖥️Backend
+### 🖱️Frontend
+### 📊MATLAB
+## 🎨Ex: Fox Drawing
+## 💰Ex: Financial Goals
+## 🚀Try it Out
+## 🎯Target Audience
+## 🌟What makes us unique
+## 👥Testimonials
+## 🚀Future Prospects
