@@ -1,3 +1,18 @@
-# HackGT22
+# Project Name
 
-[View Figma Prototype](https://www.figma.com/proto/OmDTEXe1uNFR1ThaNKHyeP/Figma-basics?type=design&node-id=4368-321123&t=09iuGYndLhxZ2K04-1&scaling=min-zoom&page-id=1669%3A162202&mode=design)
+A brief description of your project goes here.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide instructions on how to install and set up your project. Include any dependencies and installation commands.
+
+```bash
+npm install my-package
