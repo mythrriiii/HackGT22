@@ -133,6 +133,8 @@ We followed the Design Thinking Process throughout this process in order to have
 ## 🎨Ex: Fox Drawing
 ## 💰Ex: Financial Goals
 ## 🚀Try it Out
+Here's a link to our prototype
+
 ## 🎯Target Audience
 Our app is meant for anyone and everyone who wants to set goals for themselves. The user interface is easy to interact with and we are looking at adding accessibility components.
 
