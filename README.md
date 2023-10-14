@@ -2,7 +2,9 @@
 
 Every day, we set goals for ourselves, but staying motivated and seeing real progress can be tough. According to surveys, the number one reason people give up on their goals is a lack of motivation, often worsened by not seeing tangible results and good old procrastination.
 
-$${\color{green}Green}$$
+#0f0[This is green text]
+
+#7fffff00[This is yellow text at 50% opacity]
 
 That's where "Milestone" comes in. It's a simple app that helps you reach your goals step by step by journaling the process. Here's how it works: you snap a picture every day to mark your progress and keep your streak alive. At the end of the month, the app puts together a time-lapse video, showing how far you've come. It's like a visual pat on the back to keep you going and make your journey more rewarding. So, you've got this! Let Milestone help you crush those goals, one step at a time.
 
